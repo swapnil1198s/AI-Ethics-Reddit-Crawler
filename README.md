@@ -1,3 +1,4 @@
+![newplot](https://github.com/swapnil1198s/AI-Ethics-Reddit-Crawler/assets/46658528/dbdd4d98-cd68-467f-a5de-0c4f3c1f1e49)
 # AI-Ethics-Reddit-Crawler
 
 This code if from the reasearch that aims to understand the general perception of public surrounding the topic of AI Ethics.
